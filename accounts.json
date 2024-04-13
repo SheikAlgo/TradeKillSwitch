@@ -1,0 +1,51 @@
+{
+	"accounts": [
+		{
+			"id": "any_id_is_fine_",
+			"platform": "dxtrade",
+			"base_url": "https://dxtrade.ftmo.com/dxsca-web/",
+			"account": "112239745",
+			"password": "dxpassword",
+			"past_delta": "15 minutes",
+			"future_delta": "3 hours",
+			"event_impact": ["high"],
+			"country_symbols":{
+				"USD": ["ALL"]
+			}
+		},
+		
+		{
+			"id": "yes_any_id",
+			"platform": "matchtrader",
+			"base_url": "https://demo.match-trade.com/",
+			"email": "john@smith.com",
+			"account": "434567",
+			"password": "matchpassword",
+			"past_delta": "15 minutes",
+			"future_delta": "1 hour",
+			"event_impact": ["high"],
+			"country_symbols":{
+				"USD": ["ALL"]
+			}
+		},
+		
+		{
+			"id": "whichever_id_you_want",
+			"platform": "tradelocker",
+			"base_url": "https://demo.tradelocker.com/backend-api/",
+			"email": "john@doe.com",
+			"account": "564788",
+			"server": "FPR",
+			"password": "tradepassword",
+			"past_delta": "15 minutes",
+			"future_delta": "2 hours",
+			"event_impact": ["high"],
+			"country_symbols":{
+				"USD": ["ALL"]
+			}
+		}
+		
+	
+	]
+
+}
