@@ -10,7 +10,7 @@
 ### It fetches news events from ForexFactory and closes the open positions of impacted symbols, minutes/hours before the events.
 
 ### Screenshot:
-![tks_screenshot](https://github.com/SheikAlgo/TradeKillSwitch/assets/166510758/c50d8acd-e13b-4462-b78e-25562db2c068)
+![tks_screenshot](https://github.com/SheikAlgo/TradeKillSwitch/assets/166510758/dfbb0e28-11fe-4cf1-9d4c-2beada24bdfc)
 
 
 > [!WARNING]
