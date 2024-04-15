@@ -13,7 +13,10 @@ try:
     import json
     import sys
 except Exception as e:
-    print(e)
+    print("Error encountered while importing modules: ", e)
+    print("Try running 'pip install' for that particular module.")
+    input("Press Enter to exit...")
+    quit()
 
 
 def get_request(url, headers=None, timeout=None):
